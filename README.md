@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
  <div id="header" align="center">
-      <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300" height="150"/>
+      <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300" height="200"/>
   </div>
  
  <div id="header" align="center">
@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
               - Worked on many personal and group projects ranging from management tools to ecommerce sites
  </div>
  
- ---
+---
  
 <div id="header" >
  ### :hammer_and_wrench: Languages and Tools :
@@ -63,12 +63,11 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<div id="header" align="center">
-         ### :fire: My Stats :
-         [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cnsair&theme=dark&background=000000)](https://git.io/streak-stats)
-         <br/>
-         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnsair&layout=compact&theme=vision-friendly-dark)](https://github.com/cnsair/github-readme-stats)
- </div>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cnsair&theme=dark&background=000000)](https://git.io/streak-stats)
+ <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnsair&layout=compact&theme=vision-friendly-dark)](https://github.com/cnsair/github-readme-stats)
+
             
             
             
