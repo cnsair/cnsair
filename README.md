@@ -40,18 +40,18 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
- 
- <div id="header" align="left">
-     ### 
-         :man_technologist: About Me:
-         I am a seasoned Web Developer with 6 years experience building apps ranging from blogs to ecommerce
-         - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 and the PHP-framework Laravel
-         - Digging it with Laravel 8
-         - Looking to collaborate here on GitHub or Slack
-         - Reach me on samsondestined@gmail.com and +2347033229178
-         - Worked on many personal and group projects ranging from management tools to ecommerce sites
+<hr/>
+<div id="header" align="left">
+     :man_technologist: About Me: <br/>
+     I am a seasoned Web Developer with 6 years experience building apps ranging from blogs to ecommerce <br/>
+     - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 and the PHP-framework Laravel <br/>
+     - Currently learning Python <br/>
+     - Digging it with Laravel 8 <br/>
+     - Looking to collaborate with people and species <br/>
+     - Reach me on samsondestined@gmail.com and +2347033229178 <br/>
+     - Worked on many personal and group projects ranging from management tools to ecommerce sites
  </div>
-        
+ ---
 <div id="header" align="left">
  ### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -60,14 +60,17 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github
 </div>
-            
-            
-            
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cnsair&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnsair)](https://github.com/anuraghazra/github-readme-stats)
             
             
             
