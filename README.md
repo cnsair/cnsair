@@ -42,6 +42,7 @@ You can click the Preview link to take a look at your changes.
 </div>
  
  <div id="header" align="left">
+ ---
      - Hi, I’m @cnsair
      - Proficient in PHP, JavaScript, SQL and the PHP-framework Laravel
      - Digging it with Laravel 8
