@@ -1,17 +1,10 @@
 <!---
-- Hi, I’m @cnsair
-- Proficient in PHP, JavaScript, SQL and the PHP-framework Laravel
-- Digging it with Laravel 8
-- Looking to collaborate here on GitHub or Slack
-- Reach me on samsondestined@gmail.com and +2347033229178
-- Worked on many personal and group projects ranging from management tools to ecommerce sites
-
 cnsair/cnsair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
  <div id="header" align="center">
-      <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+      <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300" height="150"/>
   </div>
  
  <div id="header" align="center">
@@ -40,16 +33,16 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<hr/>
+---
 <div id="header" align="left">
-     :man_technologist: About Me: <br/>
-     I am a seasoned Web Developer with 6 years experience building apps ranging from blogs to ecommerce <br/>
-     - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 and the PHP-framework Laravel <br/>
-     - Currently learning Python <br/>
-     - Digging it with Laravel 8 <br/>
-     - Looking to collaborate with people and species <br/>
-     - Reach me on samsondestined@gmail.com and +2347033229178 <br/>
-     - Worked on many personal and group projects ranging from management tools to ecommerce sites
+         :man_technologist: About Me: <br/>
+         I am a seasoned Web Developer with 6 years experience building apps ranging from blogs to ecommerce <br/>
+         - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 and the PHP-framework Laravel <br/>
+         - Currently learning Python <br/>
+         - Digging it with Laravel 8 <br/>
+         - Looking to collaborate with people and species <br/>
+         - Reach me on samsondestined@gmail.com and +2347033229178 <br/>
+         - Worked on many personal and group projects ranging from management tools to ecommerce sites
  </div>
  ---
 <div id="header" align="left">
@@ -70,7 +63,8 @@ You can click the Preview link to take a look at your changes.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cnsair&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnsair)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnsair)](https://github.com/cnsair/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnsair&layout=compact&theme=vision-friendly-dark)](https://github.com/cnsair/github-readme-stats)
             
             
             
