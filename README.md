@@ -34,18 +34,20 @@ You can click the Preview link to take a look at your changes.
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ---
-<div id="header" align="left">
-         :man_technologist: About Me: <br/>
-         I am a seasoned Web Developer with 6 years experience building apps ranging from blogs to ecommerce <br/>
-         - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 and the PHP-framework Laravel <br/>
-         - Currently learning Python <br/>
-         - Digging it with Laravel 8 <br/>
-         - Looking to collaborate with people and species <br/>
-         - Reach me on samsondestined@gmail.com and +2347033229178 <br/>
-         - Worked on many personal and group projects ranging from management tools to ecommerce sites
+<div id="header">
+              :man_technologist: About Me: <br/>
+              I am a seasoned Web Developer with 6 years experience building apps ranging from blogs to ecommerce <br/>
+              - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 and the PHP-framework Laravel <br/>
+              - Currently learning Python <br/>
+              - Digging it with Laravel 8 <br/>
+              - Looking to collaborate with people and species <br/>
+              - Reach me on samsondestined@gmail.com and +2347033229178 <br/>
+              - Worked on many personal and group projects ranging from management tools to ecommerce sites
  </div>
+ 
  ---
-<div id="header" align="left">
+ 
+<div id="header" >
  ### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
@@ -61,10 +63,12 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cnsair&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnsair)](https://github.com/cnsair/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnsair&layout=compact&theme=vision-friendly-dark)](https://github.com/cnsair/github-readme-stats)
+<div id="header" align="center">
+         ### :fire: My Stats :
+         [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cnsair&theme=dark&background=000000)](https://git.io/streak-stats)
+         <br/>
+         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnsair&layout=compact&theme=vision-friendly-dark)](https://github.com/cnsair/github-readme-stats)
+ </div>
             
             
             
