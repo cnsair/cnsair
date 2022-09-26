@@ -42,10 +42,10 @@ You can click the Preview link to take a look at your changes.
 </div>
  
  <div id="header" align="left">
-     
-     ### :man_technologist: About Me:
-         - Hi, I am @cnsair, endless
-         - Proficient in PHP, JavaScript, SQL and the PHP-framework Laravel
+     ### 
+         :man_technologist: About Me:
+         I am a seasoned Web Developer with 6 years experience building apps ranging from blogs to ecommerce
+         - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 and the PHP-framework Laravel
          - Digging it with Laravel 8
          - Looking to collaborate here on GitHub or Slack
          - Reach me on samsondestined@gmail.com and +2347033229178
