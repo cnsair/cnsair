@@ -12,9 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
-</div>
 
-<div id="badges">
   <a href="linkedin.com/in/samson-chisom">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -24,4 +22,6 @@ You can click the Preview link to take a look at your changes.
   <a href="facebook.com/samson.chisom/">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=cnsair&style=flat-square&color=blue" alt=""/>
 </div>
