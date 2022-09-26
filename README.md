@@ -1,5 +1,5 @@
 - Hi, I’m @cnsair
-- Interested in PHP, JavaScript, SQL and PHP-framework Laravel
+- Proficient in PHP, JavaScript, SQL and the PHP-framework Laravel
 - Digging it with Laravel 8
 - Looking to collaborate here on GitHub or Slack
 - Reach me on samsondestined@gmail.com and +2347033229178
