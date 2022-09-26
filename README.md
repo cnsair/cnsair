@@ -8,13 +8,13 @@ You can click the Preview link to take a look at your changes.
   </div>
  
  <div id="header" align="center">
-    <a href="linkedin.com/in/samson-chisom">
+    <a href="https://linkedin.com/in/samson-chisom">
       <img target="_blank" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="twitter.com/cnsair">
+    <a href="https://twitter.com/cnsair">
       <img target="_blank" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="facebook.com/samson.chisom/">
+    <a href="https://facebook.com/samson.chisom/">
       <img target="_blank" src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
 </div>
