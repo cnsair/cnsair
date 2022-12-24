@@ -42,9 +42,9 @@ You can click the Preview link to take a look at your changes.
  I am a seasoned Web Developer with 6 years experience building apps ranging from blogs to ecommerce <br/>
  - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 and the PHP-framework Laravel <br/>
  - Currently learning Python <br/>
- - Digging it with Laravel 8 <br/>
- - Looking to collaborate with people and species <br/>
- - Reach me on samsondestined@gmail.com and +2347033229178 <br/>
+ - Digging it with Laravel 9 <br/>
+ - Looking to collaborate with people from all works of life <br/>
+ - Reach me on samsondestined@gmail.com, +2347033229178 and https://linkedin.com/in/samson-chisom <br/>
  - Worked on many personal and group projects ranging from management tools to ecommerce sites
  
  </div>
