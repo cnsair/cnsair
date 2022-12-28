@@ -67,20 +67,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<div id="header" >
- :hammer_and_wrench: Badges :
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
- 
- <a href="http://www.credly.com/badges/373897a6-2e76-4626-b3f7-a9a191c41774" title="Introduction to Cybersecurity Tools &amp; Cyber Attacks" rel="nofollow"><img src="https://" alt="Introduction to Cybersecurity Tools &amp; Cyber Attacks" data-canonical-src="https://images.credly.com/size/100x100/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" style="max-width: 100%;"></a>
 
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bfe82ad0-78bc-4c6d-aa58-c1746caa8db5" data-share-badge-host="https://www.credly.com"></div>  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
- </div>
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="efe8e01c-8e93-4715-a18e-d0f5cf04ae25" data-share-badge-host="https://www.credly.com"></div>  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
-
----
- -->
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cnsair&theme=dark&background=000000)](https://git.io/streak-stats)
  <br/>
