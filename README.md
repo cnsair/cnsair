@@ -39,13 +39,16 @@ You can click the Preview link to take a look at your changes.
 <div id="header">
  
  :man_technologist: About Me: <br/>
- I am a seasoned Web Developer with 6 years experience building apps ranging from blogs to ecommerce <br/>
- - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 and the PHP-framework Laravel <br/>
+ I am a seasoned Web Developer with 7 years experience building apps ranging from blogs to e-commerce <br/>
+ 
+   <a target="_blank" href="wwww.chisomsamson.me">wwww.chisomsamson.me<a/>
+
+ - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 and the PHP framework Laravel <br/>
  - Currently learning Python <br/>
- - Digging it with Laravel 9 <br/>
+ - Digging it with Laravel 11 <br/>
  - Looking to collaborate with people from all works of life <br/>
  - Reach me on samsondestined@gmail.com, +2347033229178 and https://linkedin.com/in/samson-chisom <br/>
- - Worked on many personal and group projects ranging from management tools to ecommerce sites
+ - Worked on many personal and group projects ranging from management tools to e-commerce sites
  
  </div>
  
