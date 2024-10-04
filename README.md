@@ -47,8 +47,8 @@ You can click the Preview link to take a look at your changes.
  - Currently learning Python <br/>
  - Digging it with Laravel 11 <br/>
  - Looking to collaborate with people from all works of life <br/>
- - Reach me on samsondestined@gmail.com, +2347033229178 and https://linkedin.com/in/samson-chisom <br/>
- - Worked on many personal and group projects ranging from management tools to e-commerce sites
+ - Reach me on samsondestined@gmail.com, +2347033229178 (WhatsApp), and https://linkedin.com/in/samson-chisom <br/>
+ - Worked on many personal and group projects ranging from management tools to e-commerce applications
  
  </div>
  
@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 <div id="header" >
  :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
