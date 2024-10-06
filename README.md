@@ -30,8 +30,9 @@ You can click the Preview link to take a look at your changes.
     </h1>
  </div>
  
+---
+
 <div id="header">
- 
  :man_technologist: About Me: <br/>
  I am a seasoned Web Developer with 7 years experience building apps ranging from blogs to e-commerce <br/>
  
