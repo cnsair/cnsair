@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div id="header" align="center">
-    <p fontsize="50px">
+    <p fontsize="120px">
         Hey there, Chisom Samson here
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </p>
