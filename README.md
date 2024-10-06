@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
  :man_technologist: About Me: <br/>
  I am a seasoned Web Developer with 7 years experience building apps ranging from blogs to e-commerce <br/>
  
-   <a target="_blank" href="www.chisomsamson.me">www.chisomsamson.me<a/>
+   <a target="_blank" href="www.chisomsamson.me">click me to check out my portfolio: www.chisomsamson.me<a/>
 
  - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 and the PHP framework Laravel <br/>
  - Currently learning Python <br/>
