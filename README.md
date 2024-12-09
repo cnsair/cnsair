@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <div id="header" align="center">
     <h1>
-        Hey there, Chisom Samson here
+        Hey!
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
  </div>
@@ -34,16 +34,16 @@ You can click the Preview link to take a look at your changes.
 
 <div id="header">
  :man_technologist: About Me: <br/>
- I am a seasoned Web Developer with 6 years experience building apps ranging from blogs to e-commerce <br/>
+ I am a seasoned Software Developer with 6 years experience building apps ranging from blogs to e-commerce \n <br/>
  
    check out my portfolio website >> <a target="_blank" href="https://chisomsamson.me">chisomsamson.me<a/>
 
- - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 and the PHP framework, Laravel <br/>
- - Currently learning Python <br/>
- - Digging it with Laravel 11 <br/>
- - Looking to collaborate with people from all works of life and places <br/>
- - Reach me on samsondestined@gmail.com, +2347033229178 (WhatsApp), and https://linkedin.com/in/samson-chisom <br/>
- - Worked on many personal and group projects ranging from management tools to e-commerce applications
+ - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 && the PHP framework Laravel \n <br/>
+ - Currently learning Python \n <br/>
+ - Digging it with Laravel 11 \n <br/>
+ - Looking to collaborate with people from all works of life and places \n <br/>
+ - Reach me on samsondestined@gmail.com || https://linkedin.com/in/samson-chisom || via my portfolio website above \n <br/>
+ - Worked on many personal && group projects.
  
  </div>
  
