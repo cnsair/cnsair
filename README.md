@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 <div id="header">
  :man_technologist: About Me: <br/>
- I am a seasoned Software Developer with 6 years of experience building apps ranging from blogs to e-commerce <br/>
+ I am a seasoned Software Developer with 6 years of experience building apps ranging from blogs to e-commerce. <br/><br/>
  
    check out my portfolio website >> <a target="_blank" href="https://chisomsamson.me">chisomsamson.me<a/>. Please note that very old and very new projects are not included.
 
