@@ -34,15 +34,15 @@ You can click the Preview link to take a look at your changes.
 
 <div id="header">
  :man_technologist: About Me: <br/>
- I am a seasoned Software Developer with 6 years experience building apps ranging from blogs to e-commerce \n <br/>
+ I am a seasoned Software Developer with 6 years experience building apps ranging from blogs to e-commerce <br/>
  
    check out my portfolio website >> <a target="_blank" href="https://chisomsamson.me">chisomsamson.me<a/>
 
- - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 && the PHP framework Laravel \n <br/>
- - Currently learning Python \n <br/>
- - Digging it with Laravel 11 \n <br/>
- - Looking to collaborate with people from all works of life and places \n <br/>
- - Reach me on samsondestined@gmail.com || https://linkedin.com/in/samson-chisom || via my portfolio website above \n <br/>
+ - Proficient in PHP, JavaScript, SQL, MySQL, CSS3, HTML5 && the PHP framework Laravel <br/>
+ - Writes Python too <br/>
+ - Digging it with Laravel 12 <br/>
+ - Looking to collaborate with people from all works of life and places <br/>
+ - Reach me on samsondestined@gmail.com || https://linkedin.com/in/samson-chisom || via my portfolio website above <br/>
  - Worked on many personal && group projects.
  
  </div>
