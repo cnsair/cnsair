@@ -38,9 +38,8 @@ You can click the Preview link to take a look at your changes.
  
    check out my portfolio website >> <a target="_blank" href="https://chisomsamson.me">chisomsamson.me<a/>. Please note that very old and very new projects are not included.
 
- - Proficient in (Laravel) PHP, JavaScript, SQL, MySQL, CSS3, HTML5 && the PHP framework Laravel <br/>
- - Writes Python too <br/>
- - Looking to collaborate with people from all walks of life and places <br/>
+ - Proficient in (Laravel) PHP, Python, JavaScript, SQL, MySQL, Livewire, CSS3, HTML5 <br/>
+ - Ready to collaborate with people <br/>
  - Reach me on samsondestined@gmail.com || https://linkedin.com/in/samson-chisom || via my portfolio website above <br/>
  - Worked on many personal && group projects.
  
