@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 <div id="header">
  :man_technologist: About Me: <br/>
- I am a seasoned Software, AI and CV Engineer with 7 years of experience building apps ranging from e-commerce to geospatial video-fusion systems. <br/><br/>
+ I am a seasoned Software, ML and CV Engineer with 7 years of experience building apps ranging from e-commerce to geospatial video-fusion systems. <br/><br/>
  
    check out my portfolio website >> <a target="_blank" href="https://chisomsamson.me">chisomsamson.me<a/>. Please note that very old and very new projects are not included.
 
