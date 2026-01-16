@@ -34,11 +34,11 @@ You can click the Preview link to take a look at your changes.
 
 <div id="header">
  :man_technologist: About Me: <br/>
- I am a seasoned Software Developer with 6 years of experience building apps ranging from blogs to e-commerce. <br/><br/>
+ I am a seasoned Software, AI and CV Engineer with 7 years of experience building apps ranging from e-commerce to geospatial video-fusion systems. <br/><br/>
  
    check out my portfolio website >> <a target="_blank" href="https://chisomsamson.me">chisomsamson.me<a/>. Please note that very old and very new projects are not included.
 
- - Proficient in (Laravel) PHP, Python, JavaScript, SQL, MySQL, Livewire, CSS3, HTML5 <br/>
+ - Proficient in (Laravel) PHP, Python, Laravel, JavaScript, SQL, Matlab, Livewire, CSS3, HTML5 <br/>
  - Ready to collaborate with people <br/>
  - Reach me on samsondestined@gmail.com || https://linkedin.com/in/samson-chisom || via my portfolio website above <br/>
  - Worked on many personal && group projects.
@@ -51,12 +51,12 @@ You can click the Preview link to take a look at your changes.
  <p>:hammer_and_wrench: Languages and Tools :</p>
  <p align="left">
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
