@@ -34,11 +34,11 @@ You can click the Preview link to take a look at your changes.
 
 <div id="header">
  :man_technologist: About Me: <br/>
- I am a seasoned Software, ML and CV Engineer with 7 years of experience building apps ranging from e-commerce to geospatial video-fusion systems. <br/><br/>
+ Experienced Software, ML and CV Engineer with 7 years of experience building apps ranging from e-commerce to geospatial video-fusion systems. <br/><br/>
  
-   check out my portfolio website >> <a target="_blank" href="https://chisomsamson.me">chisomsamson.me<a/>. Please note that very old and very new projects are not included.
+Check out my portfolio website >> <a target="_blank" href="https://chisomsamson.me">chisomsamson.me<a/>. Please note that very old and very new projects are not included.
 
- - Proficient in (Laravel) PHP, Python, Laravel, JavaScript, SQL, Matlab, Livewire, CSS3, HTML5 <br/>
+ - Proficient in (Laravel) Python, PyTorch, TF, OpenCV, and CUDA | PHP, Laravel, JavaScript, SQL, Livewire, CSS3, HTML5, MATLAB, <br/>
  - Ready to collaborate with people <br/>
  - Reach me on samsondestined@gmail.com || https://linkedin.com/in/samson-chisom || via my portfolio website above <br/>
  - Worked on many personal && group projects.
